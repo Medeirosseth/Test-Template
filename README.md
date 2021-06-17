@@ -1,22 +1,22 @@
-#### :earth_americas::earth_africa::earth_asia:
+#### Put Emojies here
 
-#### Galactic Age Calculator
+#### Project Name
 
 #### By _**:neckbeard:Seth Medeiros**_
 
 ## Technologies Used
 
-- _node package manager_
-- _ webpack_
-- _eslintrc_
-- _node_modules_
-- _Javascript_
-- _Jquery_
-- _Github_
+- \_\_
+- \_\_
+- \_\_
+- \_\_
+- \_\_
+- \_\_
+- \_\_
 
 ## Description:memo:
 
-_A website used to demonstrates the red, green, refactor method of Test Driven Development by converting a users age on earth to other solar planets _
+\_\_
 
 <details>
   <summary>Setup/installation Requirements:open_file_folder:</summary>
@@ -34,11 +34,11 @@ _A website used to demonstrates the red, green, refactor method of Test Driven D
 2. Navigate to the `galactic-age-calculator` directory on your computer
 3. Open with your preferred text editor to view the code base
 4. To start a development server and view the project in the browser:
-   - Navigate to `galactic-age-calculator` in your command line
+   - Navigate to `` in your command line
    - Run the command `npm install` to install dependencies
    - Optionally, run the commmand `npm run build` to make a bundle of the files
    - Finally, run the command `npm run start` to start a development server
-5. To run tests, navigate to `galactic-age-calculator` in your terminal and run the command `npm run test`
+5. To run tests, navigate to ``in your terminal and run the command`npm run test`
 </details>
 
 ## Known Bugs :no_entry_sign: :bug:
